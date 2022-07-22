@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sneha-ES
-- 👀 I’m interested in Web Designing 
+- 👀 I’m interested in Web Design & Development 
 - 🌱 I’m currently learning UI/UX Design 
 - 💞️ I’m looking to collaborate on UI/UX Design 
 - 📫 Reach me on snehaacharya42@gmail.com
